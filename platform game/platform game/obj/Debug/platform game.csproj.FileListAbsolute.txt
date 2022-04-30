@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\platform game\platform game\bin\Debug\platform game.exe.config
+C:\Users\franc\source\repos\platform game\platform game\bin\Debug\platform game.exe
+C:\Users\franc\source\repos\platform game\platform game\bin\Debug\platform game.pdb
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform game.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform game.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform_game.Form1.resources
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform_game.Properties.Resources.resources
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform game.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform game.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform game.exe
+C:\Users\franc\source\repos\platform game\platform game\obj\Debug\platform game.pdb
